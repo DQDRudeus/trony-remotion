@@ -6,6 +6,20 @@
 
 Start with a video idea, a reference or a script. The skill checks the local Remotion project, works out the storyboard and visual direction with you, and builds an editable Studio composition. Use it for standalone titles, animated diagrams, transitions or overlays. Preview by default and render on request.
 
+## 动效示例 / Watch the examples
+
+点击动图查看完整 MP4。Select a preview to watch the full video.
+
+| 动效合集 · Motion showcase | 纸张展开 · Paper unfold | 黄毛小偷 · Code flow |
+|:---:|:---:|:---:|
+| [![动效合集](xiaolin-pack.gif)](xiaolin-pack.mp4) | [![纸张展开](trony-paper.gif)](trony-paper.mp4) | [![黄毛小偷](thief-code.gif)](thief-code.mp4) |
+| [35.5 秒 · 完整视频](xiaolin-pack.mp4) | [8 秒 · 完整视频](trony-paper.mp4) | [12 秒 · 完整视频](thief-code.mp4) |
+| 叠化入场、侧视黑板、路线与逐句高亮 | 纸面弯折飞入、铺平、荧光笔划亮 | 角色分层漂浮、双向代码流、按节拍强调 |
+
+[下载可编辑 Remotion 工程 / Download example source](remotion-examples-source.zip) · [MIT License](LICENSE)
+
+解压源码后运行 `npm ci`、`npm run studio:thief`，在 Studio 中选择 `XiaolinPack`、`PaperInsert` 或 `ThiefCode`。The source ZIP includes the TypeScript compositions, media, lockfile and rendering instructions. Original code and documentation use MIT. Third-party dependencies, fonts and media content retain their respective terms.
+
 ## 安装 / Install
 
 [下载完整技能包 / Download the skill ZIP](trony-remotion.zip)
